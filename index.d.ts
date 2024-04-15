@@ -3,9 +3,10 @@ interface Song {
   songNo: number;
   title: string;
   tamilTitle: string;
-  artist: Artist;
+  releaseYear?: 1974;
+  artistId: number;
   type: "KEETHAGAL" | "PAMALAI" | "CONVENTION" | "ALBUM";
-  category: Category;
+  categoryId: number;
   pallavi?: string;
   anuPallavi?: string;
   stanzas: string[];
@@ -20,7 +21,7 @@ interface Category {
 interface Artist {
   id: string;
   name: string;
+  avatarURL?: string;
   email?: string;
-  phone?: string;
   songs: Song[];
 }
