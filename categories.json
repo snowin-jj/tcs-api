@@ -1,0 +1,106 @@
+[
+    {
+        "id": 1,
+        "name": "Workship"
+    },
+    {
+        "id": 2,
+        "name": "Start of the Worship"
+    },
+    {
+        "id": 3,
+        "name": "Morning"
+    },
+    {
+        "id": 4,
+        "name": "Evening"
+    },
+    {
+        "id": 5,
+        "name": "Friday"
+    },
+    {
+        "id": 6,
+        "name": "God's day"
+    },
+    {
+        "id": 7,
+        "name": "Jesus's Coming"
+    },
+    {
+        "id": 8,
+        "name": "Jesus's Birth"
+    },
+    {
+        "id": 9,
+        "name": "Length Days"
+    },
+    {
+        "id": 10,
+        "name": "Palm Sunday"
+    },
+    {
+        "id": 11,
+        "name": "Jesus's Struggles"
+    },
+    {
+        "id": 12,
+        "name": "Verses of the Cross"
+    },
+    {
+        "id": 13,
+        "name": "Easter"
+    },
+    {
+        "id": 14,
+        "name": "Jesus's Ascension (பரமேறுதல்)"
+    },
+    {
+        "id": 15,
+        "name": "Fame of God"
+    },
+    {
+        "id": 16,
+        "name": "Integrity (ஒருமைப்பாடு)"
+    },
+    {
+        "id": 17,
+        "name": "Holy Scripture (Bible)"
+    },
+    {
+        "id": 18,
+        "name": "Baptism"
+    },
+    {
+        "id": 19,
+        "name": "Solidification (திடப்படுத்துதல்)"
+    },
+    {
+        "id": 20,
+        "name": "Sacrament (திருவிருந்து)"
+    },
+    {
+        "id": 21,
+        "name": "Ordination (குரு அருட்பொழிவு)"
+    },
+    {
+        "id": 22,
+        "name": "Renovation (திருப்பணி)"
+    },
+    {
+        "id": 23,
+        "name": "Evangelism (நற்செய்திப்பணி)"
+    },
+    {
+        "id": 24,
+        "name": "Marriage"
+    },
+    {
+        "id": 25,
+        "name": "Temple Benediction (தேவாலய மங்கலப் படைப்பு)"
+    },
+    {
+        "id": 26,
+        "name": "Evangelism (நற்செய்திப்பணி)"
+    }
+]
