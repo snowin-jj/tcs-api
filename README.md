@@ -1,6 +1,6 @@
 # Tamil Christian Songs API
 
-This project aims to create an API for Tamil Christian songs, allowing users to access song lyrics programmatically. Contributors can help expand the song database by adding songs in accordance with the song order from a specific song book.
+This project aims to create an API for Tamil Christian songs, allowing users to access song lyrics programmatically. Contributors can help expand the song database by adding songs in accordance with the song order from a specific song books.
 
 ## Schema Explaination
 
