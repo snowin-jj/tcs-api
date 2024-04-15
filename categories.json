@@ -1,106 +1,46 @@
 [
     {
         "id": 1,
-        "name": "Workship"
+        "name": "Hymns (துதிப்பாடல்கள்)"
     },
     {
         "id": 2,
-        "name": "Start of the Worship"
+        "name": "Start of the Worship (ஆராதனை ஆரம்பம்)"
     },
     {
         "id": 3,
-        "name": "Morning"
+        "name": "Morning (காலை)"
     },
     {
         "id": 4,
-        "name": "Evening"
+        "name": "Evening (மாலை)"
     },
     {
         "id": 5,
-        "name": "Friday"
+        "name": "Friday (வெள்ளிக்கிழமை)"
     },
     {
         "id": 6,
-        "name": "God's day"
+        "name": "God's day (கர்த்தரின் நாள்)"
     },
     {
         "id": 7,
-        "name": "Jesus's Coming"
+        "name": "Life of Jesus (கிறிஸ்துவின் வாழ்க்கை)"
     },
     {
         "id": 8,
-        "name": "Jesus's Birth"
+        "name": "Chruch (திருச்சபை)"
     },
     {
         "id": 9,
-        "name": "Length Days"
+        "name": "Sacred Days (திருநாட்கள்)"
     },
     {
         "id": 10,
-        "name": "Palm Sunday"
+        "name": "Special days (சிறப்பு தினங்கள்)"
     },
     {
         "id": 11,
-        "name": "Jesus's Struggles"
-    },
-    {
-        "id": 12,
-        "name": "Verses of the Cross"
-    },
-    {
-        "id": 13,
-        "name": "Easter"
-    },
-    {
-        "id": 14,
-        "name": "Jesus's Ascension (பரமேறுதல்)"
-    },
-    {
-        "id": 15,
-        "name": "Fame of God"
-    },
-    {
-        "id": 16,
-        "name": "Integrity (ஒருமைப்பாடு)"
-    },
-    {
-        "id": 17,
-        "name": "Holy Scripture (Bible)"
-    },
-    {
-        "id": 18,
-        "name": "Baptism"
-    },
-    {
-        "id": 19,
-        "name": "Solidification (திடப்படுத்துதல்)"
-    },
-    {
-        "id": 20,
-        "name": "Sacrament (திருவிருந்து)"
-    },
-    {
-        "id": 21,
-        "name": "Ordination (குரு அருட்பொழிவு)"
-    },
-    {
-        "id": 22,
-        "name": "Renovation (திருப்பணி)"
-    },
-    {
-        "id": 23,
-        "name": "Evangelism (நற்செய்திப்பணி)"
-    },
-    {
-        "id": 24,
-        "name": "Marriage"
-    },
-    {
-        "id": 25,
-        "name": "Temple Benediction (தேவாலய மங்கலப் படைப்பு)"
-    },
-    {
-        "id": 26,
-        "name": "Evangelism (நற்செய்திப்பணி)"
+        "name": "Common Songs (பொதுவான பாடல்கள்)"
     }
 ]

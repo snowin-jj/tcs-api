@@ -1,0 +1,210 @@
+[
+    {
+        "id": 1,
+        "name": "Hymns (துதிப்பாடல்கள்)"
+    },
+    {
+        "id": 2,
+        "name": "Start of the Worship (ஆராதனை ஆரம்பம்)"
+    },
+    {
+        "id": 3,
+        "name": "Morning (காலை)"
+    },
+    {
+        "id": 4,
+        "name": "Evening (மாலை)"
+    },
+    {
+        "id": 5,
+        "name": "Friday (வெள்ளிக்கிழமை)"
+    },
+    {
+        "id": 6,
+        "name": "God's day (கர்த்தரின் நாள்)"
+    },
+    {
+        "id": 7,
+        "name": "Jesus's Coming"
+    },
+    {
+        "id": 8,
+        "name": "Jesus's Birth"
+    },
+    {
+        "id": 9,
+        "name": "Length Days"
+    },
+    {
+        "id": 10,
+        "name": "Palm Sunday"
+    },
+    {
+        "id": 11,
+        "name": "Jesus's Struggles"
+    },
+    {
+        "id": 12,
+        "name": "Verses of the Cross"
+    },
+    {
+        "id": 13,
+        "name": "Easter"
+    },
+    {
+        "id": 14,
+        "name": "Jesus's Ascension (பரமேறுதல்)"
+    },
+    {
+        "id": 15,
+        "name": "Fame of God"
+    },
+    {
+        "id": 16,
+        "name": "Integrity (ஒருமைப்பாடு)"
+    },
+    {
+        "id": 17,
+        "name": "Holy Scripture (Bible)"
+    },
+    {
+        "id": 18,
+        "name": "Baptism"
+    },
+    {
+        "id": 19,
+        "name": "Solidification (திடப்படுத்துதல்)"
+    },
+    {
+        "id": 20,
+        "name": "Sacrament (திருவிருந்து)"
+    },
+    {
+        "id": 21,
+        "name": "Ordination (குரு அருட்பொழிவு)"
+    },
+    {
+        "id": 22,
+        "name": "Renovation (திருப்பணி)"
+    },
+    {
+        "id": 23,
+        "name": "Evangelism (நற்செய்திப்பணி)"
+    },
+    {
+        "id": 24,
+        "name": "Marriage"
+    },
+    {
+        "id": 25,
+        "name": "Temple Benediction (தேவாலய மங்கலப் படைப்பு)"
+    },
+    {
+        "id": 26,
+        "name": "Feast of Epiphany (பிரசன்னத் திருநாள்)"
+    },
+    {
+        "id": 27,
+        "name": "Feast of the Holy Spirit (பரிசுத்த ஆவியின் திருநாள்)"
+    },
+    {
+        "id": 28,
+        "name": "Feast of Trinity (திருத்துவத்  திருநாள்)"
+    },
+    {
+        "id": 29,
+        "name": "Thiruthondar (திருத்தொண்டர்)"
+    },
+    {
+        "id": 30,
+        "name": "All the Saints (சகல பரிசுத்தவான்கள்)"
+    },
+    {
+        "id": 31,
+        "name": "The festival of thanksgiving (ஸ்தோத்திரப் பண்டிகை)"
+    },
+    {
+        "id": 32,
+        "name": "New house entry ceremony (புதுமனைப் புகுவிழா)"
+    },
+    {
+        "id": 33,
+        "name": "time of suffering (துன்பக்காலம்)"
+    },
+    {
+        "id": 34,
+        "name": "Preschool Sunday (பாலர் ஞாயிறு)"
+    },
+    {
+        "id": 35,
+        "name": "Worker's Section (வாலிபர் பாக்க)"
+    },
+    {
+        "id": 36,
+        "name": "New year"
+    },
+    {
+        "id": 37,
+        "name": "Bicentennial Celebration (இருநூறாம் ஆண்டு விழா)"
+    },
+    {
+        "id": 38,
+        "name": "Christian's Life (கிறிஸ்தவ வாழ்க்கை)"
+    },
+    {
+        "id": 39,
+        "name": "God's Call (தெய்வ அழைப்பு)"
+    },
+    {
+        "id": 40,
+        "name": "Sin Report (பாவ அறிகிக்கை)"
+    },
+    {
+        "id": 41,
+        "name": "Following the Christ (கிறிஸ்துவைப் பின்பற்றுதல்)"
+    },
+    {
+        "id": 42,
+        "name": "Faith (விசுவாசம்)"
+    },
+    {
+        "id": 43,
+        "name": "Christian ethics (கிறிஸ்தவ ஓழுக்கம்)"
+    },
+    {
+        "id": 44,
+        "name": "Treatment (சிகிச்சை)"
+    },
+    {
+        "id": 45,
+        "name": "Drought (வறட்சி)"
+    },
+    {
+        "id": 46,
+        "name": "The Christian home (கிறிஸ்தவ இல்லறம்)"
+    },
+    {
+        "id": 47,
+        "name": "Section (பிரிவு)"
+    },
+    {
+        "id": 48,
+        "name": "National greetings (தேச வாழ்த்து)"
+    },
+    {
+        "id": 49,
+        "name": "Death (மரணம்)"
+    },
+    {
+        "id": 50,
+        "name": "Prayer (இறைவேண்டுடல்)"
+    },
+    {
+        "id": 51,
+        "name": "The story of the cross (சிலுவை சரிதை)"
+    },
+    {
+        "id": 52,
+        "name": "Conclusion poets (முடிவு கவிகள்)"
+    }
+]
